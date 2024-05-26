@@ -39,6 +39,7 @@
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=77mdias&variablebee&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=77mdias)](https://github.com/77mdias/github-readme-stats)
 
 <!-- Portfolio -->
 ## Portfolio:
