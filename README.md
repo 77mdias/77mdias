@@ -46,7 +46,7 @@
 - [DevLinks - link shortener](https://github.com/77mdias/devlinks)
 - [Calculator classic - JavaScript](https://github.com/77mdias/Calculadora)
 - [Landing Page - Deadpool & Wolverine Movie](https://github.com/77mdias/DeadPool---Wolverine-Movie)
-- [Page Sing Up and Login - HTML / CSS & JS](https://github.com/77mdias/DeadPool---Wolverine-Movie)
+- [Page Sing Up and Login - HTML / CSS & JS](https://github.com/77mdias/loginsingup)
 
 <!-- GIF -->
 <p align="left">
