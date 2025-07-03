@@ -4,7 +4,6 @@
 
 - 🎒🏫 - Today I am studying Systems Analysis and Development and JavaScript
 -  📧💻 - Contact my email: jean.77mdiasdev@gmail.com
--   🙇‍♂️🙎‍♂️ - Pronouns: ele/dele
 
 
 <div id="user-content-toc">
